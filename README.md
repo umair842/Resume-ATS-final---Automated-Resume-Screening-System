@@ -1,6 +1,7 @@
 # 📄 Resume ATS (final) — Automated Resume Screening System
 
 This n8n workflow automates resume screening using AI and integrates with Microsoft Outlook, Google Drive, and Airtable to create a mini Applicant Tracking System (ATS).
+![Automated Resume Screening System](./ScreenShot.png)
 
 ---
 
